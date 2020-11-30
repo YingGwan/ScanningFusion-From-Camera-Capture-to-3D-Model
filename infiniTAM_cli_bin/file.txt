@@ -1,0 +1,2 @@
+./rgb_ppm/000000.ppm
+./depth_pgm/000000.pgm

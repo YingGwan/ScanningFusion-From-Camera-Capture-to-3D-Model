@@ -1,0 +1,1 @@
+InfiniTAM_cli.exe Calib_ITM_D415.txt  ./rgb_ppm/%06i.ppm ./depth_pgm/%06i.pgm
