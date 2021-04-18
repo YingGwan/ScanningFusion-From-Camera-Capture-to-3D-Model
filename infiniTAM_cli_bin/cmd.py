@@ -15,7 +15,7 @@ import shutil
     #including dataset: 
     # 1. HumanModel
 
-ImageSize = 2
+ImageSize = 1
 
 ##############################################################
 
