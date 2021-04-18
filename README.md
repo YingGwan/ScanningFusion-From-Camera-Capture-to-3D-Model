@@ -1,5 +1,5 @@
 # Lab Section 1: Point Cloud Fusion
-This is a set of bin files, merging several images captured by Realsense D4XX to Merged Point cloud
+This lab section teaches you how to capture raw data and fuse all point cloud into one, with additional point cloud processing steps in Meshlab.
 
 
 
@@ -11,10 +11,11 @@ This is a set of bin files, merging several images captured by Realsense D4XX to
 
 # Program details
 
-- First three parts of my tutorial are:
+- First Lab Section includes:
   - **Capturing to acquire dataset**
   - **Image conversion**
   - **Data Fusion**
+  - **Data Cleaning**
 
 
 
@@ -63,11 +64,28 @@ This is a set of bin files, merging several images captured by Realsense D4XX to
 
  
 
-## Result 
+## Data Cleaning
 
-![image-20201130145821980](./pic/result.png)
+You could download this opensource software through this website
 
-- This result has been post-processed in MESHLAB
+Website: https://www.meshlab.net/ 
+
+![image-20210418172231792](https://raw.githubusercontent.com/YingGwan/TyporaUploadImg/main/typora202104/18/172232-890786.png)
+
+We choose to use MeshLab to clean the fused point cloud to be clean point cloud:
+
+- Outlier filtering 
+
+- Other point cloud selection 
+
+- Mesh Selection and cleaning operation
+
+  
+
+Need to point out:
+
+- Fused result is mesh, but the mesh quality is not good because the point cloud is noisy
+- So we should only use the point cloud data and do some mesh reconstruction in our second lab section
 
 
 
