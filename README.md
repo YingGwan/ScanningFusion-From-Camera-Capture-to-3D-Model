@@ -1,4 +1,4 @@
-# ScanningFusion-From-Camera-Capture-to-3D-Model
+# Lab Section 1: Point Cloud Fusion
 This is a set of bin files, merging several images captured by Realsense D4XX to Merged Point cloud
 
 
@@ -11,14 +11,22 @@ This is a set of bin files, merging several images captured by Realsense D4XX to
 
 # Program details
 
+- First three parts of my tutorial are:
+  - **Capturing to acquire dataset**
+  - **Image conversion**
+  - **Data Fusion**
 
 
-## Dataset
 
-- There are 3 datasets with different figure size
-  - 1280X720
-  - 640x480
-- You could choose one dataset to run
+## Capturing: Acquire Dataset
+
+- You could get  dataset from two ways
+  - 3 datasets provided by TA
+  - You could use capture program provided by us to capture rgb and depth image
+
+- Remember the image size of your dataset
+  - the image size of dataset provided by TA is included in dataset folder
+  - capturing dataset: 1280X720
 
 
 
