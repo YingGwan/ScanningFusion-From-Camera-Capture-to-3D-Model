@@ -7,6 +7,15 @@ This lab section teaches you how to capture raw data and fuse all point cloud in
 
 - Windows 10 64 bit 
 
+
+# Software Requirements
+- Python >= 3.0
+  - access this website to download windows 64bit installer: 
+    
+    https://www.python.org/downloads/release/python-387/
+  - During installation, remember click "add to system path" option
+  
+ 
   
 
 # Program details
