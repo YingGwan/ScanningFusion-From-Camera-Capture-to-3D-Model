@@ -1,0 +1,33 @@
+Realsense D415 Intrinsics Depth Parameters:
+fx: 894.357
+fy: 894.357
+ppx: 644.528
+ppy: 373.973
+model: Brown Conrady
+height: 720
+width: 1280
+coeffs: 
+0
+0
+0
+0
+0
+Realsense D415 Intrinsics Color Parameters:
+fx: 910.862
+fy: 908.196
+ppx: 619.264
+ppy: 369.452
+model: Inverse Brown Conrady
+height: 720
+width: 1280
+coeffs: 
+0
+0
+0
+0
+0
+depth-scale: 0.001
+extrinsic parameters: 
+0.999997 -0.00216898 0.00147408 0.0149986
+0.00216973 0.999997 -0.000505433 -0.000227696
+-0.00147298 0.00050863 0.999999 -0.000130359

@@ -3,7 +3,7 @@ import sys
 
 ##############################################################
 #Variable you need to modify
-png_file_number = 42    #rgb file and depth file number
+png_file_number = 75    #rgb file and depth file number 486 450
 ##############################################################
 
 
