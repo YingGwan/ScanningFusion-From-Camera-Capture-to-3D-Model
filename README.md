@@ -14,8 +14,10 @@ This lab section teaches you how to capture raw data and fuse all point cloud in
     
     https://www.python.org/downloads/release/python-387/
   - During installation, remember click "add to system path" option
-  
- 
+  - When you want to run python script like "cmd.py":
+      - click on main menu of windows, type in "cmd" to open windows terminal
+      - change directory to your working directory like: "cd C:/workingDirectory"
+      - Runn .py file, plz use  "python cmd.py" or "cmd.py" to run the program
   
 
 # Program details
