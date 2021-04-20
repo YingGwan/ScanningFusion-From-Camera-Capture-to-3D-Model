@@ -6,6 +6,7 @@ This lab section teaches you how to capture raw data and fuse all point cloud in
 # System Requirements
 
 - Windows 10 64 bit 
+- **If you are using Mac or Linux, plz contact Yingjun through yingjun.tian@postgrad.manchester.ac.uk and I would arrage your time slot for using our lab Windows computer**
 
 
 # Software Requirements
